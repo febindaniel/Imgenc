@@ -1,6 +1,6 @@
-# 🖼️ StegoCrypt – Secure Image Steganography App For File Hiding
+# 🖼️ Imgenc – Secure Image Steganography App For File Hiding
 
-StegoCrypt is a secure steganography application built using **Python** and **Flutter** that allows users to **hide encrypted files inside images** and retrieve them securely.
+Imgenc is a secure steganography application built using **Python** and **Flutter** that allows users to **hide encrypted files inside images** and retrieve them securely.
 
 The project combines **cryptography and steganography** to ensure both **data confidentiality and concealment**, making it suitable for secure data transmission scenarios.
 
