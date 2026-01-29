@@ -114,7 +114,3 @@ It should not be used for illegal or unauthorized data concealment.
 MIT License — free to use and modify.
 
 ---
-
-
-
-Just say 👍
